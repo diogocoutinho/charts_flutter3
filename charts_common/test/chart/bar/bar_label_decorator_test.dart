@@ -1,5 +1,3 @@
-// @dart=2.9
-
 // Copyright 2018 the Charts project authors. Please see the AUTHORS file
 // for details.
 //
@@ -62,7 +60,7 @@ class FakeGraphicsFactory extends GraphicsFactory {
 /// Stores [TextStyle] properties for test to verify.
 class FakeTextStyle implements TextStyle {
   @override
-  Color color;
+  Color colords;
 
   @override
   int fontSize;

@@ -36,7 +36,7 @@ jobs:
         dart pub get
         dart pub run test
       working-directory: ${{ github.workspace }}/charts/charts_common
-    - name: charts_flutter tests
+    - name: charts_flutter3 tests
       run: flutter test
-      working-directory: ${{ github.workspace }}/charts/charts_flutter
+      working-directory: ${{ github.workspace }}/charts/charts_flutter3
 

@@ -6,7 +6,7 @@ Example:
 
 ```
 /// Bar chart example
-import 'package:charts_flutter/flutter.dart' as charts;
+import 'package:charts_flutter3/flutter.dart' as charts;
 import 'package:flutter/material.dart';
 
 class CustomRoundedBars extends StatelessWidget {

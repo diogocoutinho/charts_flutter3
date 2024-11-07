@@ -20,9 +20,9 @@ types and examples of how to custom components of the chart.
 
 A common library for charting packages.
 
-## charts_flutter
+## charts_flutter3
 
-[![charts_flutter pub package](https://img.shields.io/pub/v/charts_flutter.svg)](https://pub.dartlang.org/packages/charts_flutter)
+[![charts_flutter3 pub package](https://img.shields.io/pub/v/charts_flutter3.svg)](https://pub.dartlang.org/packages/charts_flutter3)
 
 A charting package for [Flutter](https://flutter.io), supporting both Android
 and iOS.
